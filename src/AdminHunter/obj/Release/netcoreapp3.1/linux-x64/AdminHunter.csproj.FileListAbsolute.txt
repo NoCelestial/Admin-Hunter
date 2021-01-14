@@ -1,0 +1,17 @@
+F:\visual projeckt\.Net Core\AdminHunter\AdminHunter\bin\Release\netcoreapp3.1\linux-x64\AdminHunter
+F:\visual projeckt\.Net Core\AdminHunter\AdminHunter\bin\Release\netcoreapp3.1\linux-x64\AdminHunter.deps.json
+F:\visual projeckt\.Net Core\AdminHunter\AdminHunter\bin\Release\netcoreapp3.1\linux-x64\AdminHunter.runtimeconfig.json
+F:\visual projeckt\.Net Core\AdminHunter\AdminHunter\bin\Release\netcoreapp3.1\linux-x64\AdminHunter.runtimeconfig.dev.json
+F:\visual projeckt\.Net Core\AdminHunter\AdminHunter\bin\Release\netcoreapp3.1\linux-x64\AdminHunter.dll
+F:\visual projeckt\.Net Core\AdminHunter\AdminHunter\bin\Release\netcoreapp3.1\linux-x64\AdminHunter.pdb
+F:\visual projeckt\.Net Core\AdminHunter\AdminHunter\obj\Release\netcoreapp3.1\linux-x64\AdminHunter.AboutForm.resources
+F:\visual projeckt\.Net Core\AdminHunter\AdminHunter\obj\Release\netcoreapp3.1\linux-x64\AdminHunter.HuntForm.resources
+F:\visual projeckt\.Net Core\AdminHunter\AdminHunter\obj\Release\netcoreapp3.1\linux-x64\AdminHunter.MainForm.resources
+F:\visual projeckt\.Net Core\AdminHunter\AdminHunter\obj\Release\netcoreapp3.1\linux-x64\AdminHunter.Properties.Resources.resources
+F:\visual projeckt\.Net Core\AdminHunter\AdminHunter\obj\Release\netcoreapp3.1\linux-x64\AdminHunter.csproj.GenerateResource.cache
+F:\visual projeckt\.Net Core\AdminHunter\AdminHunter\obj\Release\netcoreapp3.1\linux-x64\AdminHunter.AssemblyInfoInputs.cache
+F:\visual projeckt\.Net Core\AdminHunter\AdminHunter\obj\Release\netcoreapp3.1\linux-x64\AdminHunter.AssemblyInfo.cs
+F:\visual projeckt\.Net Core\AdminHunter\AdminHunter\obj\Release\netcoreapp3.1\linux-x64\AdminHunter.csproj.CoreCompileInputs.cache
+F:\visual projeckt\.Net Core\AdminHunter\AdminHunter\obj\Release\netcoreapp3.1\linux-x64\AdminHunter.dll
+F:\visual projeckt\.Net Core\AdminHunter\AdminHunter\obj\Release\netcoreapp3.1\linux-x64\AdminHunter.pdb
+F:\visual projeckt\.Net Core\AdminHunter\AdminHunter\obj\Release\netcoreapp3.1\linux-x64\AdminHunter.genruntimeconfig.cache

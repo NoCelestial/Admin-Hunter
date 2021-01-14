@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RAlf7wE6mGVR1YkuFfLIdyyM6b9DDq29eL201rPKptLAbRq1eAV1cWOxY+WjDxQPYVvFvsqzPsfVCFpGztm3nA==",
+  "success": true,
+  "projectFilePath": "F:\\visual projeckt\\.Net Core\\AdminHunter\\AdminHunter\\AdminHunter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yas\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.8\\microsoft.netcore.app.host.linux-x64.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
